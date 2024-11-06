@@ -1,0 +1,6 @@
+{
+  "appId": "com.test123",
+  "win": {
+    "target": "nsis"
+  }
+}
